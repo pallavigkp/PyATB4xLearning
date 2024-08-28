@@ -7,3 +7,4 @@ print("hello world")
 #sep -' '= how you want to separate the arguments
 #end ='\n' = in the end what you want to write or add or to do
 print("hello","WORLD","gorakhpur",123, 3.14, True, sep ="-")
+print("hello","WORLD","gorakhpur",123, 3.14, True, sep ="!")
