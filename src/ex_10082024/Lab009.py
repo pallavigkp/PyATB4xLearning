@@ -10,3 +10,14 @@ print(_)
 abc123= 23
 #123abc=23 will give error as per the rule variable start with a-z or A-Z OR (_) UNDERSCORE
 print(abc123)
+#boolean data type that gives true or false value
+d="true"
+e = "false"
+print(d ,'\n',e)
+#we can also find the data type by following way
+a=32
+b= "harry"
+c=42.1
+print(type(a))
+print(type(b))
+print(type(c))
