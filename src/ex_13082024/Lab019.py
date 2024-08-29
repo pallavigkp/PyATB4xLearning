@@ -15,3 +15,9 @@ print(A)
 print(age)
 pi=3.14
 print(pi+1)
+#boolean
+is_pramod_married="true"
+is_pramod_male= "true"
+is_pramod_in_usa="false"
+print(is_pramod_in_usa)
+print(is_pramod_married)
