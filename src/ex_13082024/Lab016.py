@@ -14,3 +14,6 @@ print(type(a))
 print(type(candidate))
 print(type(A))
 print(type(age))
+""" if developer or tester wants to write a multiple line comments
+ then we will write in triple double qoutes this is basically known as NOTES.
+  AND contains information regarding the procedure"""
