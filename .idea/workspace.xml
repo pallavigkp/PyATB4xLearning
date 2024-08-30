@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab019.py added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" afterDir="false" />
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab020.py added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,32 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lab001">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -304,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724937346770</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Lab020.py added">
+      <option name="closed" value="true" />
+      <created>1724940291389</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1724940291389</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -324,6 +332,7 @@
     <MESSAGE value="Lab017.py added" />
     <MESSAGE value="Lab018.py added" />
     <MESSAGE value="Lab019.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab019.py added" />
+    <MESSAGE value="Lab020.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab020.py added" />
   </component>
 </project>
