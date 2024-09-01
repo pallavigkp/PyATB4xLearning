@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab021.py added">
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab022.py added">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Python.Lab020.executor": "Run",
     "Python.Lab021.executor": "Run",
     "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -320,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725005356828</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lab022.py added">
+      <option name="closed" value="true" />
+      <created>1725093285239</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725093285239</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -342,6 +351,7 @@
     <MESSAGE value="Lab019.py added" />
     <MESSAGE value="Lab020.py added" />
     <MESSAGE value="Lab021.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab021.py added" />
+    <MESSAGE value="Lab022.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab022.py added" />
   </component>
 </project>
