@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab023.py added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab027.py Lab028.py added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,8 @@
     "Python.Lab023.executor": "Run",
     "Python.Lab027.executor": "Run",
     "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -340,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725172894273</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lab027.py Lab028.py added">
+      <option name="closed" value="true" />
+      <created>1725280119342</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725280119342</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,6 +375,7 @@
     <MESSAGE value="Lab021.py added" />
     <MESSAGE value="Lab022.py added" />
     <MESSAGE value="Lab023.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab023.py added" />
+    <MESSAGE value="Lab027.py Lab028.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab027.py Lab028.py added" />
   </component>
 </project>
