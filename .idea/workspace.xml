@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab029.py added" />
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab030.py added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +77,7 @@
     "Python.Lab028.executor": "Run",
     "Python.Lab029.executor": "Run",
     "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -354,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725347302685</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lab030.py added">
+      <option name="closed" value="true" />
+      <created>1725347516079</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347516079</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +392,7 @@
     <MESSAGE value="Lab023.py added" />
     <MESSAGE value="Lab027.py Lab028.py added" />
     <MESSAGE value="Lab029.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab029.py added" />
+    <MESSAGE value="Lab030.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab030.py added" />
   </component>
 </project>
