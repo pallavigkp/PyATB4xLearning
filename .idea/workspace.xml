@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab032.py added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab033.py added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +81,8 @@
     "Python.Lab031.executor": "Run",
     "Python.Lab032.executor": "Run",
     "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -384,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725762170538</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Lab033.py added">
+      <option name="closed" value="true" />
+      <created>1725762707807</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725762707807</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -412,6 +423,7 @@
     <MESSAGE value="Lab029.py added" />
     <MESSAGE value="Lab030.py added" />
     <MESSAGE value="Lab032.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab032.py added" />
+    <MESSAGE value="Lab033.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab033.py added" />
   </component>
 </project>
