@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab034.py added">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab035.py" afterDir="false" />
-    </list>
+    <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="Lab037.py added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -418,11 +403,18 @@
       <option name="project" value="LOCAL" />
       <updated>1725807369121</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Lab037.py added">
+      <option name="closed" value="true" />
+      <created>1726021533376</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726021533376</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab003.py file added" />
     <MESSAGE value="Lab004.py added" />
     <MESSAGE value="Lab005.py added" />
     <MESSAGE value="Lab006.py added" />
@@ -447,6 +439,7 @@
     <MESSAGE value="Lab032.py added" />
     <MESSAGE value="Lab033.py added" />
     <MESSAGE value="Lab034.py added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab034.py added" />
+    <MESSAGE value="Lab037.py added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab037.py added" />
   </component>
 </project>
