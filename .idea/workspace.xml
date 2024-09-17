@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8045c754-3477-4021-b467-d229b7bbef61" name="Changes" comment="all file added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_20082024/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab062_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +104,9 @@
     "Python.Lab057.executor": "Run",
     "Python.Lab058.executor": "Run",
     "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab062_2.executor": "Run",
+    "Python.Lab064.executor": "Run",
     "Python.Lab60.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
@@ -127,9 +115,15 @@
     "Python.task6.executor": "Run",
     "Python.task9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pythonProject/src/ex_24082024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\pythonProject\src\ex_24082024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -493,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726067275066</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="all file added">
+      <option name="closed" value="true" />
+      <created>1726325640638</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726325640638</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
